@@ -12,7 +12,7 @@ std::cout << jogfol << '\n';
 
 return 0;
 
-
+// I can use a or b or c but using Banglish words are way more comfortable than using abcxyz to meh :)
 
 
 
